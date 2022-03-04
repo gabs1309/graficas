@@ -1,0 +1,170 @@
+Afganistán	9
+Albania	4
+Alemania	46632
+Angola	2
+Antigua y Barbuda	5
+Arabia Saudita	1188
+Argelia	113
+Argentina	442
+Armenia	112
+Australia	2637
+Austria	2066
+Azerbaiyán	147
+Bahamas	4
+Bahrein	4
+Bangladesh	68
+Barbados	31
+Bélgica	876
+Belice	1
+Benin	96
+Bhután	4
+Bolivia	59
+Bosnia y Herzegovina	45
+Botswana	2
+Brasil	5464
+Brunei Darussalam	7
+Bulgaria	186
+Burkina Faso	2
+Burundi	22
+Cabo Verde	3
+Camboya	3
+Camerún	128
+Canadá	4238
+Chad	51
+Chile	438
+China	1243568
+Chipre	4
+Colombia	422
+Comoras	17
+Congo, República Democrática del	132
+Congo, República del	87
+Corea, República de	171603
+Costa Rica	16
+Croacia	195
+Dinamarca	1351
+Dominica	4
+Ecuador	29
+Egipto, República Árabe de	1027
+El Salvador	1
+Emiratos Árabes Unidos	58
+Eritrea	1
+Eslovenia	255
+España	1288
+Estados Unidos	285113
+Estonia	31
+Etiopía	13
+Federación de Rusia	23337
+Fiji	1
+Filipinas	501
+Finlandia	1321
+Francia	14103
+Gabón	139
+Gambia	16
+Georgia	85
+Ghana	13
+Granada	3
+Grecia	356
+Guatemala	7
+Guinea	5
+Guinea Ecuatorial	175
+Guinea-Bissau	17
+Guyana	2
+Haití	2
+Honduras	8
+Hong Kong, Región Administrativa Especial	346
+Hungría	427
+India	19454
+Indonesia	3093
+Irán, República Islámica del	11569
+Iraq	653
+Irlanda	58
+Islandia	47
+Israel	1368
+Italia	9229
+Jamaica	14
+Japón	245372
+Jordania 	21
+Kazajistán 	789
+Kenya	294
+Letonia	82
+Líbano	110
+Liberia	1
+Libia	7
+Lituania	90
+Luxemburgo	117
+Macedonia del Norte 	42
+Madagascar	9
+Malasia	1071
+Malí	59
+Malta	5
+Marruecos	199
+Mauricio	4
+Mauritania	20
+México	1305
+Mongolia	84
+Montenegro	16
+Mozambique	23
+Namibia	8
+Nauru	1
+Nepal	20
+Nicaragua	1
+Níger	53
+Nigeria	120
+Noruega	957
+Nueva Zelandia	324
+Omán	30
+Países Bajos	2228
+Pakistán	313
+Panamá	34
+Papua Nueva Guinea	1
+Paraguay	18
+Perú	137
+Polonia	3887
+Portugal	703
+Qatar	39
+Reino Unido	12061
+República Árabe Siria	121
+República Centroafricana	17
+República Checa	765
+República Democrática Popular Lao	1
+República Dominicana	23
+República Eslovaca	206
+Rumania	881
+Rwanda	6
+Samoa	2
+San Vicente y las Granadinas	3
+Santa Lucía	2
+Santo Tomé y Príncipe	411
+Senegal	221
+Serbia	168
+Seychelles	48
+Sierra Leona	2
+Singapur	1727
+Sri Lanka	356
+Sudáfrica	567
+Sudán	238
+Sudán del Sur	259
+Suecia	1802
+Suiza	1369
+Suriname	3
+Tailandia	821
+Tanzanía	5
+Tayikistán	1
+Timor-Leste	25
+Togo	37
+Tonga	1
+Trinidad y Tobago	1
+Túnez	180
+Turkmenistán	1
+Turquía	7871
+Tuvalu	10
+Ucrania	2097
+Uganda	6
+Uruguay	23
+Uzbekistán	374
+Vanuatu	10
+Viet Nam	720
+Yemen, Rep. del	60
+Zambia	2
+Zimbabwe	8
+
